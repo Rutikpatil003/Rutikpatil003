@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Rutik Patil 👋
 
-<!--
-**Rutikpatil003/Rutikpatil003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Odoo Developer | Python Developer | ERP Solutions
 
-Here are some ideas to get you started:
+I'm an **Odoo Developer** specializing in Python, Odoo framework, custom module development, and ERP solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience developing **100+ custom Odoo modules** across Odoo 16, 17, 18, and 19, with expertise in backend development, business workflow customization, API integrations, dashboards, QWeb reports, websites, and portals.
+
+Currently working as an **Odoo Developer at Onestone Software LLP**.
+
+### 🛠️ Tech Stack
+
+* **Languages:** Python, SQL, JavaScript(OWL JS)
+* **ERP Framework:** Odoo 16, 17, 18, 19,20
+* **Backend:** Odoo ORM, REST APIs, WebSocket
+* **Frontend:** XML, QWeb, OWL, JavaScript
+* **Database:** PostgreSQL, MySQL
+* **Integrations:** Payment Gateways[Paygate,stich], Third-party APIs, SMS APIs,The Courier Guy, Google Meet Integration, Zoom Meeting Integration 
+* **Tools:** Git, GitHub, Linux, Ubuntu
+
+### 💼 Professional Experience
+
+* Developed and maintained 100+ custom Odoo modules.
+* Customized business workflows and ERP functionalities.
+* Worked on Odoo Apps Store module development and maintenance.
+* Integrated payment gateways and third-party APIs.
+* Developed QWeb reports, dashboards, websites, and portals.
+* Built APIs for mobile application integration.
+* Worked across Retail, Rental, Manufacturing, Healthcare, Hospitality, Education, and Services domains.
+* Experienced in Odoo installation, configuration, and environment setup on Linux and Windows.
+
+### 💡 Areas of Expertise
+
+* Custom Odoo Module Development
+* Python Backend Development
+* Odoo ORM and PostgreSQL
+* ERP Workflow Customization
+* REST API Integration
+* Payment Gateway Integration
+* QWeb Reports and Dashboards
+* Website and Portal Development
+* Odoo Debugging and Troubleshooting
+* Linux Server Environments
+
+### 🤝 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/rutik-patil-06b247228/)
+* 📧 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=patilrutik03@gmail.com)
+
+---
+
+⭐ Passionate about building scalable ERP solutions and continuously improving my Odoo development skills.
